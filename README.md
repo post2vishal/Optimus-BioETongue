@@ -23,5 +23,5 @@ Bio e-Tongue for Optimus: Grok-enhanced enzyme-based sensors for taste/biomarker
 ## License
 MIT—build the universe's taste!
 
-**Contact**: Anu [Your X Handle] | Pitch: support@x.ai
+**Contact**: Anant [X:PrakritiTV] | Pitch: support@x.ai
 Repo inspired by Modi Coin ethos for global good.
