@@ -1,0 +1,11 @@
+{
+  "name": "optimus-bioetongue",
+  "version": "1.0.0",
+  "description": "Bio e-Tongue sim for Optimus + Grok",
+  "devDependencies": {
+    "ethers": "^5.7.0"
+  },
+  "scripts": {
+    "test": "echo 'Run Python tests'"
+  }
+}
